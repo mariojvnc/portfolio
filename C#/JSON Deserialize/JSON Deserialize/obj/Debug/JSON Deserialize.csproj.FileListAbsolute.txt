@@ -1,0 +1,10 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\obj\Debug\JSON Deserialize.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\obj\Debug\JSON Deserialize.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\bin\Debug\JSON Deserialize.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\bin\Debug\JSON Deserialize.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\bin\Debug\JSON Deserialize.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\obj\Debug\JSON Deserialize.csproj.CopyComplete
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\obj\Debug\JSON Deserialize.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\JSON Deserialize\JSON Deserialize\obj\Debug\JSON Deserialize.pdb

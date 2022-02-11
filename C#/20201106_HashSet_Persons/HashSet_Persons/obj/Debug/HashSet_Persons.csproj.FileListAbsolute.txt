@@ -1,0 +1,7 @@
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\bin\Debug\HashSet_Persons.exe.config
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\bin\Debug\HashSet_Persons.exe
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\bin\Debug\HashSet_Persons.pdb
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\obj\Debug\HashSet_Persons.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\obj\Debug\HashSet_Persons.exe
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\obj\Debug\HashSet_Persons.pdb
+C:\Projects\Tutorials\HashSet_Persons\HashSet_Persons\obj\Debug\HashSet_Persons.csprojAssemblyReference.cache

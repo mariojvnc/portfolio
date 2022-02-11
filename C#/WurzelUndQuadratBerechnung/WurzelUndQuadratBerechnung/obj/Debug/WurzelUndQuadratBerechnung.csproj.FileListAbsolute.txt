@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\bin\Debug\WurzelUndQuadratBerechnung.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\bin\Debug\WurzelUndQuadratBerechnung.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\bin\Debug\WurzelUndQuadratBerechnung.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\obj\Debug\WurzelUndQuadratBerechnung.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\obj\Debug\WurzelUndQuadratBerechnung.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\obj\Debug\WurzelUndQuadratBerechnung.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WurzelUndQuadratBerechnung\WurzelUndQuadratBerechnung\obj\Debug\WurzelUndQuadratBerechnung.pdb

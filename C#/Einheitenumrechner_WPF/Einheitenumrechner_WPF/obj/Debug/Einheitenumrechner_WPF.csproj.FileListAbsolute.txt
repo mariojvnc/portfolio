@@ -1,0 +1,15 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\bin\Debug\Einheitenumrechner_WPF.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\bin\Debug\Einheitenumrechner_WPF.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\bin\Debug\Einheitenumrechner_WPF.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\App.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF_MarkupCompile.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF_MarkupCompile.lref
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\MainWindow.baml
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.g.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.Properties.Resources.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.csproj.GenerateResource.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Einheitenumrechner_WPF\Einheitenumrechner_WPF\obj\Debug\Einheitenumrechner_WPF.pdb

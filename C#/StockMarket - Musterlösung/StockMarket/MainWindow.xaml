@@ -1,0 +1,91 @@
+﻿<Window x:Class="StockMarket.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StockMarket"
+        mc:Ignorable="d"
+        Title="Simulation des Aktienhandels mit Microsoft und Apple Aktien" Height="600" Width="800" FontSize="30" FontWeight="Bold">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="4" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="4" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="5" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="70" />
+        </Grid.RowDefinitions>
+        <!-- 1st row-->
+        <Label Content="New York:" HorizontalAlignment="Center" FontStyle="Italic" FontWeight="Normal"/>
+        <Label Content="Kurswert am" Grid.Row="1" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Red"/>
+        <Button x:Name="btnStart" Content="Start" Grid.Row="0" Grid.Column="1" Margin="4" Click="OnStartClick"/>
+        <Button x:Name="btnPause" Content="Pause" Grid.Row="0" Grid.Column="3" Margin="4" IsEnabled="False" Click="OnPauseClick"/>
+        <!-- 2nd row-->
+        <Label x:Name="date" Content="24.12.2001" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center" Foreground="Red"/>
+        <Label Content="$ je Aktie" Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="1" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Foreground="Red"/>
+        <Label x:Name="value" Content="232,42" Grid.Row="1" Grid.Column="3" Foreground="Red" HorizontalContentAlignment="Right" VerticalAlignment="Center" VerticalContentAlignment="Center" FontStyle="Italic" FontSize="50"/>
+        <Canvas Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="5" Background="Gray"/>
+        <Canvas Grid.Row="3" Grid.Column="2" Grid.RowSpan="5" Background="Gray"/>
+        
+        <!-- Kleinanleger -->
+        <Label Content="Kleinanleger" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontStyle="Italic"/>
+        <Label Content="Verfügbar ($):" Grid.Row="4" HorizontalAlignment="Center" FontWeight="Normal"/>
+        <Label x:Name="moneySmall" Content="10000" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" FontWeight="Normal"/>
+        <Label Content="Aktien (Stk):" Grid.Row="5" Grid.Column="0" HorizontalContentAlignment="Right" FontWeight="Normal"/>
+        <Label x:Name="sharesSmall" Content="0" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center" FontWeight="Normal"/>
+        <TextBox x:Name="countSmall" Text="1" Grid.Column="0" Grid.Row="6" Width="100" HorizontalAlignment="Right" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Background="Bisque" FontWeight="Normal"/>
+        <Label Content="Stk" Grid.Row="6" Grid.Column="1"  Background="Bisque" HorizontalAlignment="Left" FontWeight="Normal"/>
+        <Button x:Name="buySmall" Content="Kaufen" Grid.Column="0"  Grid.Row="7"  Margin="4" Background="Bisque" Click="OnBuyClick"/>
+        <Button x:Name="sellSmall" Content="Verkaufen" Grid.Column="1"  Grid.Row="7"  Margin="4" Background="Bisque" Click="OnSellClick"/>
+        <!-- Broker -->
+        <Label Content="Broker" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontStyle="Italic"/>
+        <Label Content="Verfügbar ($):" Grid.Row="4" Grid.Column="3" HorizontalAlignment="Center" FontWeight="Normal"/>
+        <Label x:Name="moneyBroker" Content="10000" Grid.Row="4" Grid.Column="4" HorizontalAlignment="Center" FontWeight="Normal"/>
+        <Label Content="Aktien (Stk):" Grid.Row="5" Grid.Column="3" HorizontalContentAlignment="Right" FontWeight="Normal"/>
+        <Label Content="Aktien (Stk):" Grid.Row="5" Grid.Column="3" HorizontalContentAlignment="Right" FontWeight="Normal"/>
+        <Label x:Name="sharesBroker" Content="0" Grid.Row="5" Grid.Column="4" HorizontalAlignment="Center" FontWeight="Normal"/>
+        <TextBox x:Name="countBroker" Text="1" Grid.Column="3" Grid.Row="6"  Width="100" VerticalContentAlignment="Center"  HorizontalContentAlignment="Right" Background="Bisque"  HorizontalAlignment="Right" FontWeight="Normal"/>
+        <Label Content="Stk" Grid.Row="6" Grid.Column="4" Background="Bisque" HorizontalAlignment="Left" FontWeight="Normal"/>
+        <Button x:Name="buyBroker" Content="Kaufen" Grid.Column="3"  Grid.Row="7"  Background="Bisque" Margin="4" Click="OnBuyClick"/>
+        <Button x:Name="sellBroker" Content="Verkaufen" Grid.Column="4"  Grid.Row="7"  Background="Bisque" Margin="4" Click="OnSellClick"/>
+
+        <Canvas Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="5" Background="Gray"/>
+        
+        <!-- last row-->
+        <Label Content="Meldungen:" Grid.Row="9" />
+        <TextBlock x:Name="error" Text="" Grid.Row="10" Grid.RowSpan="2" TextWrapping="WrapWithOverflow" FontSize="20" FontWeight="Normal"/>
+        <ScrollViewer Grid.Row="9" Grid.Column="1" Grid.RowSpan="3" Grid.ColumnSpan="3" HorizontalScrollBarVisibility="Auto" >
+            <TextBlock x:Name="output"  Text="" Background="LightGreen" FontSize="14"/>
+        </ScrollViewer>
+        <Button Grid.Row="9" Grid.Column="4" Grid.RowSpan="2" Click="OnStatisticsClick" >
+            <TextBlock Text="Durchschnitt der letzten 20 Kalendertage" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" />
+        </Button>
+        <TextBlock x:Name="average" Text="---" Grid.Row="11" Grid.Column="5" FontSize="25" FontWeight="Normal" TextWrapping="WrapWithOverflow"  />
+        <!--        
+        <Button x:Name="calcStatistics" Content="Statistik" Grid.Column="3" Grid.Row="9" Margin="5" Foreground="DarkGreen" Click="OnCalculateStatistics" FontWeight="Normal" HorizontalContentAlignment="Center"/>
+        <Label x:Name="statistics" Content="Kurz/Lang" Grid.Column="3" Grid.Row="10" HorizontalAlignment="Center" Foreground="DarkGreen"/>
+        <Button x:Name="calcFailure" Content="Fehlerrate" Grid.Row="7" Grid.Column="3" Margin="5" Foreground="Red" Click="OnCalcPercentageOfGarbageClick" HorizontalContentAlignment="Center" FontWeight="Normal"/>
+        <Label x:Name="percentage" Content="? %" Grid.Row="8" Grid.Column="3" Foreground="Red" HorizontalAlignment="Center"/>
+        <Label Content="Abfall" Grid.Row="7" HorizontalAlignment="Center" FontStyle="Italic" Foreground="Red"/>
+        <WrapPanel x:Name="garbage" Grid.Row="8" Background="LightGray" Margin="5" />
+        <Label Content="Gesamtlänge" Grid.Row="9" HorizontalAlignment="Center" Foreground="Red" FontWeight="Normal"/>
+        <Label x:Name="garbageCount" Content="0" Grid.Row="10" HorizontalAlignment="Center" Foreground="Red"/>
+        <Label Content="Gesamtlänge:" Grid.Row="10" Grid.ColumnSpan="2" HorizontalAlignment="Right" Foreground="DarkGreen" FontWeight="Normal"/>
+        <Label x:Name="okCount" Content="0" Grid.Column="2" Grid.Row="10" HorizontalAlignment="Center" Foreground="DarkGreen"/>
+        -->
+
+    </Grid>
+</Window>

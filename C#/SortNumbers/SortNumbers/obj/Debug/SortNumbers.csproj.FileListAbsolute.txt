@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\obj\Debug\SortNumbers.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\obj\Debug\SortNumbers.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\obj\Debug\SortNumbers.exe
+D:\Schule\3. HTL\POS\SortNumbers\SortNumbers\obj\Debug\SortNumbers.pdb

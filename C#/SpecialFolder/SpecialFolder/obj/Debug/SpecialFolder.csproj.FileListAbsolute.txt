@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\bin\Debug\SpecialFolder.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\bin\Debug\SpecialFolder.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\bin\Debug\SpecialFolder.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\obj\Debug\SpecialFolder.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\obj\Debug\SpecialFolder.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\obj\Debug\SpecialFolder.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\SpecialFolder\SpecialFolder\obj\Debug\SpecialFolder.pdb

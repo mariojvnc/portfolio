@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\bin\Debug\DemoDi.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\bin\Debug\DemoDi.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\bin\Debug\DemoDi.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\obj\Debug\DemoDi.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\obj\Debug\DemoDi.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\obj\Debug\DemoDi.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DemoDi\DemoDi\obj\Debug\DemoDi.pdb

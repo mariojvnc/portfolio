@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\bin\Debug\Newman_Conway_Sequence.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\bin\Debug\Newman_Conway_Sequence.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\bin\Debug\Newman_Conway_Sequence.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\obj\Debug\Newman_Conway_Sequence.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\obj\Debug\Newman_Conway_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\obj\Debug\Newman_Conway_Sequence.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Newman_Conway_Sequence\Newman_Conway_Sequence\obj\Debug\Newman_Conway_Sequence.pdb

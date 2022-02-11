@@ -1,0 +1,7 @@
+C:\Projects\Tutorials\StackDemo\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Projects\Tutorials\StackDemo\StackDemo\bin\Debug\StackDemo.exe
+C:\Projects\Tutorials\StackDemo\StackDemo\bin\Debug\StackDemo.pdb
+C:\Projects\Tutorials\StackDemo\StackDemo\obj\Debug\StackDemo.csprojAssemblyReference.cache
+C:\Projects\Tutorials\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\StackDemo\StackDemo\obj\Debug\StackDemo.exe
+C:\Projects\Tutorials\StackDemo\StackDemo\obj\Debug\StackDemo.pdb

@@ -1,0 +1,7 @@
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csprojAssemblyReference.cache
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+D:\Schule\_Programmieren und Software Engineering_\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb

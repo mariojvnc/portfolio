@@ -1,0 +1,7 @@
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\bin\Debug\Dictionary_Textanalyse.exe.config
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\bin\Debug\Dictionary_Textanalyse.exe
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\bin\Debug\Dictionary_Textanalyse.pdb
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\obj\Debug\Dictionary_Textanalyse.csprojAssemblyReference.cache
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\obj\Debug\Dictionary_Textanalyse.csproj.CoreCompileInputs.cache
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\obj\Debug\Dictionary_Textanalyse.exe
+D:\Schule\_Programmieren und Software Engineering_\Dictionary_Textanalyse\obj\Debug\Dictionary_Textanalyse.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\bin\Debug\DirectoryReadTaskAndBackgroundWorker.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\bin\Debug\DirectoryReadTaskAndBackgroundWorker.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\bin\Debug\DirectoryReadTaskAndBackgroundWorker.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\obj\Debug\DirectoryReadTask.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\obj\Debug\DirectoryReadTask.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\obj\Debug\DirectoryReadTaskAndBackgroundWorker.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\DirectoryReadTaskAndBackgroundWorker\DirectoryReadTask\obj\Debug\DirectoryReadTaskAndBackgroundWorker.pdb

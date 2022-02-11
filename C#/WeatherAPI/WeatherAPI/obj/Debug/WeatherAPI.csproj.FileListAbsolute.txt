@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.pdb

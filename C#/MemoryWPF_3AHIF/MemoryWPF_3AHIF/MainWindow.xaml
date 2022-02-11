@@ -1,0 +1,38 @@
+﻿<Window x:Class="MemoryWPF_3AHIF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoryWPF_3AHIF"
+        mc:Ignorable="d"
+        Title="Memory Game" Height="450" Width="800" Loaded="Window_Loaded">
+    <Border Padding="10">
+        <StackPanel>
+            <Label x:Name="NextPlayer" HorizontalAlignment="Left"/>
+            <Border Padding="10">
+                <Grid x:Name="scoreboard" ShowGridLines="True" Background="Aqua">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="Player1" Content="Spieler 1:" HorizontalAlignment="Center"/>
+                    <Label x:Name="Player2" Content="Spieler 2:" HorizontalAlignment="Center" Grid.Column="1" />
+                </Grid>
+            </Border>
+            <Border Padding="10">
+                <Grid x:Name="gameboard" ShowGridLines="True">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Border>
+        </StackPanel>
+    </Border>
+</Window>

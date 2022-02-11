@@ -1,0 +1,45 @@
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\MainWindow.g.cs
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\App.g.cs
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket_MarkupCompile.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket_MarkupCompile.lref
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\MainWindow.baml
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.g.resources
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\4\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\MainWindow.g.cs
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\App.g.cs
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket_MarkupCompile.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket_MarkupCompile.lref
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\MainWindow.baml
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.g.resources
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\thoma\Documents\Unterricht\2te\201819 Tests\Prüfung\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\MainWindow.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\App.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket_MarkupCompile.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket_MarkupCompile.lref
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\MainWindow.baml
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.g.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\bin\Debug\Supermarktkasse_72.exe.config
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\bin\Debug\Supermarktkasse_72.exe
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\bin\Debug\Supermarktkasse_72.pdb
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.csprojAssemblyReference.cache
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.exe
+C:\Projects\Tutorials\Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.pdb
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\bin\Debug\Supermarktkasse_72.exe.config
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\bin\Debug\Supermarktkasse_72.exe
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\bin\Debug\Supermarktkasse_72.pdb
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.csprojAssemblyReference.cache
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.csproj.CoreCompileInputs.cache
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.exe
+D:\Schule\_Programmieren und Software Engineering_\20201124_Supermarktkasse_72\Supermarktkasse_72\obj\Debug\Supermarktkasse_72.pdb

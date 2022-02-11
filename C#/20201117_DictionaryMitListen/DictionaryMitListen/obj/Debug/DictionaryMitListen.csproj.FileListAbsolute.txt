@@ -1,0 +1,7 @@
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\bin\Debug\DictionaryMitListen.exe.config
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\bin\Debug\DictionaryMitListen.exe
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\bin\Debug\DictionaryMitListen.pdb
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\obj\Debug\DictionaryMitListen.csprojAssemblyReference.cache
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\obj\Debug\DictionaryMitListen.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\obj\Debug\DictionaryMitListen.exe
+C:\Projects\Tutorials\DictionaryMitListen\DictionaryMitListen\obj\Debug\DictionaryMitListen.pdb

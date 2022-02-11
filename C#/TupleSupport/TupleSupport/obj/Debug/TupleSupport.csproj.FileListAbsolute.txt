@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\bin\Debug\TupleSupport.exe.config
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\bin\Debug\TupleSupport.exe
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\bin\Debug\TupleSupport.pdb
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\obj\Debug\TupleSupport.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\obj\Debug\TupleSupport.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\obj\Debug\TupleSupport.exe
+D:\Schule\3. HTL\POS\TupleSupport\TupleSupport\obj\Debug\TupleSupport.pdb

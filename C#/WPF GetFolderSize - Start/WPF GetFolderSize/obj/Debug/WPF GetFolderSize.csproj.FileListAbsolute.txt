@@ -1,0 +1,15 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\bin\Debug\WPF GetFolderSize.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\bin\Debug\WPF GetFolderSize.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\bin\Debug\WPF GetFolderSize.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\MainWindow.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\App.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize_MarkupCompile.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize_MarkupCompile.lref
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\MainWindow.baml
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize.g.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF_GetFolderSize.Properties.Resources.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize.csproj.GenerateResource.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\WPF GetFolderSize - Start\WPF GetFolderSize\obj\Debug\WPF GetFolderSize.pdb

@@ -1,0 +1,2 @@
+delete methode für AirlineDataMapper
+delette methode für PlaneDataMapper

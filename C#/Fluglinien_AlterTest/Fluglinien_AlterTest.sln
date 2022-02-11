@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluglinien_AlterTest", "Fluglinien_AlterTest\Fluglinien_AlterTest.csproj", "{816099F3-4339-48D3-8F7B-83D1F09D8158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluglinien_AlterTestAsyncAwait", "Fluglinien_AlterTestAsyncAwait\Fluglinien_AlterTestAsyncAwait.csproj", "{32C97586-BFA8-44E6-A3C5-A2EA8904D2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816099F3-4339-48D3-8F7B-83D1F09D8158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816099F3-4339-48D3-8F7B-83D1F09D8158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816099F3-4339-48D3-8F7B-83D1F09D8158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816099F3-4339-48D3-8F7B-83D1F09D8158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C97586-BFA8-44E6-A3C5-A2EA8904D2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C97586-BFA8-44E6-A3C5-A2EA8904D2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C97586-BFA8-44E6-A3C5-A2EA8904D2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C97586-BFA8-44E6-A3C5-A2EA8904D2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7D9905-7017-4E4E-A93C-2EB297EDAC03}
+	EndGlobalSection
+EndGlobal

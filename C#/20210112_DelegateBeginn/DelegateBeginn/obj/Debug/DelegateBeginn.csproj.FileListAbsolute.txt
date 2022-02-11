@@ -1,0 +1,14 @@
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\bin\Debug\DelegateBeginn.exe.config
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\bin\Debug\DelegateBeginn.exe
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\bin\Debug\DelegateBeginn.pdb
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.csprojResolveAssemblyReference.cache
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.exe
+C:\Projects\Tutorials\DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.pdb
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\bin\Debug\DelegateBeginn.exe.config
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\bin\Debug\DelegateBeginn.exe
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\bin\Debug\DelegateBeginn.pdb
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.csprojAssemblyReference.cache
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.csproj.CoreCompileInputs.cache
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.exe
+Y:\Tutorials\20210112_DelegateBeginn\DelegateBeginn\obj\Debug\DelegateBeginn.pdb

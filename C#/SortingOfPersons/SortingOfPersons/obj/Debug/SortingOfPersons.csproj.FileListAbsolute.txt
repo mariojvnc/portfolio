@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\bin\Debug\SortingOfPersons.exe.config
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\bin\Debug\SortingOfPersons.exe
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\bin\Debug\SortingOfPersons.pdb
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\obj\Debug\SortingOfPersons.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\obj\Debug\SortingOfPersons.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\obj\Debug\SortingOfPersons.exe
+D:\Schule\3. HTL\POS\SortingOfPersons\SortingOfPersons\obj\Debug\SortingOfPersons.pdb

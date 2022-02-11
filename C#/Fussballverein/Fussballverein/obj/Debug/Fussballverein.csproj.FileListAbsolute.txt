@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\obj\Debug\Fussballverein.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\obj\Debug\Fussballverein.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\bin\Debug\Fussballverein.exe.config
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\bin\Debug\Fussballverein.exe
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\bin\Debug\Fussballverein.pdb
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\obj\Debug\Fussballverein.exe
+D:\Schule\3. HTL\POS\Fussballverein\Fussballverein\obj\Debug\Fussballverein.pdb

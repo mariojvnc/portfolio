@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\bin\Debug\Wettesensoren.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\bin\Debug\Wettesensoren.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\bin\Debug\Wettesensoren.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\obj\Debug\Wettesensoren.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\obj\Debug\Wettesensoren.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\obj\Debug\Wettesensoren.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Wettesensoren\Wettesensoren\obj\Debug\Wettesensoren.pdb

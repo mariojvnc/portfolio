@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\bin\Debug\BeginInvokeForMathRound.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\bin\Debug\BeginInvokeForMathRound.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\bin\Debug\BeginInvokeForMathRound.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\obj\Debug\BeginInvokeForMathRound.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\obj\Debug\BeginInvokeForMathRound.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\obj\Debug\BeginInvokeForMathRound.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\BeginInvokeForMathRound\BeginInvokeForMathRound\BeginInvokeForMathRound\obj\Debug\BeginInvokeForMathRound.pdb

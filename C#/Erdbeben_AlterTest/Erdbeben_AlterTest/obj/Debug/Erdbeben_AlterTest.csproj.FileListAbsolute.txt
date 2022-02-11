@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\bin\Debug\Erdbeben_AlterTest.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\bin\Debug\Erdbeben_AlterTest.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\bin\Debug\Erdbeben_AlterTest.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\obj\Debug\Erdbeben_AlterTest.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\obj\Debug\Erdbeben_AlterTest.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\obj\Debug\Erdbeben_AlterTest.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Erdbeben_AlterTest\Erdbeben_AlterTest\obj\Debug\Erdbeben_AlterTest.pdb

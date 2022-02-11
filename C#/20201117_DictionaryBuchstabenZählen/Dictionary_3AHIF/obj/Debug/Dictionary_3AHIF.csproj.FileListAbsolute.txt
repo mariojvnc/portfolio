@@ -1,0 +1,7 @@
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\bin\Debug\Dictionary_3AHIF.exe.config
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\bin\Debug\Dictionary_3AHIF.exe
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\bin\Debug\Dictionary_3AHIF.pdb
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\obj\Debug\Dictionary_3AHIF.csprojAssemblyReference.cache
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\obj\Debug\Dictionary_3AHIF.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\obj\Debug\Dictionary_3AHIF.exe
+C:\Projects\Tutorials\Dictionary_3AHIF\Dictionary_3AHIF\obj\Debug\Dictionary_3AHIF.pdb

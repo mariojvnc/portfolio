@@ -1,0 +1,10 @@
+Startzeitpunkt,Flugdauer(Minuten),Art,Name,xstart,ystart,xlandung,ylandung
+07:30,60,OS1,Fracht,0,0,10,5
+10:00,90,OS5,Passagier,10,0,0,5
+11:45,30,OS9,Fracht,2,3,8,10
+09:30,120,OS3,Passagier,10,10,0,0
+10:30,120,OS6,Fracht,0,5,10,5
+11:30,90,OS8,Fracht,5,10,0,0
+09:45,90,OS4,Fracht,5,3,10,8
+09:00,90,OS2,Passagier,0,0,0,10
+11:00,75,OS7,Passagier,2,0,5,10

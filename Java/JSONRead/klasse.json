@@ -1,0 +1,16 @@
+{
+  "schuler": [
+    {
+      "geburtsdatum": "2003-07-21",
+      "vorname": "Mert",
+      "nachname": "Ada"
+    },
+    {
+      "geburtsdatum": "2004-08-16",
+      "vorname": "Schamma",
+      "nachname": "Ahmed"
+    }
+  ],
+  "anzahl": 20,
+  "name": "4AHIF"
+}

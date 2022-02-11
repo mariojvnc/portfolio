@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    p {
+        font-size: 30px;
+        font-family: 'Poppins', sans-serif;
+    }
+    h1{
+        font-size: 40px;
+        font-family: 'Poppins', sans-serif;
+    }
+    body{
+        padding: 5%;
+        background-color: #f3f3f3;
+    }
+</style>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Farbtest RBG vs HSL</title>
+</head>
+<body>
+<h1>Hallo!</h1>
+    <p>Links ist RGB, rechts HSL.</p>
+    <canvas id="area" width="600" height="220"></canvas>
+    <script>
+        var canvas = document.getElementById("area");
+        var ctx = canvas.getContext('2d');
+        ctx.fillStyle='rgb(23,32,1)';
+        ctx.fillRect(50, 10, 200, 200);
+        ctx.fillStyle='hsl(77,93%,6%)';
+        ctx.fillRect(300, 10, 200, 200);
+    </script>
+    <p>
+        <script>
+            var now = new Date();
+            document.write(`Erzeugt am: ${now.toLocaleDateString()} ${now.toLocaleTimeString()}`);
+        </script>
+    </p>
+</body>
+</html>

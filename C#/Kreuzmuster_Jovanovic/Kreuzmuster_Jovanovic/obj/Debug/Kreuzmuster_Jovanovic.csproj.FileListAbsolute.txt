@@ -1,0 +1,15 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\bin\Debug\Kreuzmuster_Jovanovic.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\bin\Debug\Kreuzmuster_Jovanovic.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\bin\Debug\Kreuzmuster_Jovanovic.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\MainWindow.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\App.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic_MarkupCompile.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic_MarkupCompile.lref
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\MainWindow.baml
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.g.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.Properties.Resources.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.csproj.GenerateResource.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Kreuzmuster_Jovanovic\Kreuzmuster_Jovanovic\obj\Debug\Kreuzmuster_Jovanovic.pdb

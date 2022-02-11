@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\bin\Debug\LEON_LERNEN.exe.config
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\bin\Debug\LEON_LERNEN.exe
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\bin\Debug\LEON_LERNEN.pdb
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\obj\Debug\LEON_LERNEN.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\obj\Debug\LEON_LERNEN.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\obj\Debug\LEON_LERNEN.exe
+D:\Schule\3. HTL\POS\LEON_LERNEN\LEON_LERNEN\obj\Debug\LEON_LERNEN.pdb

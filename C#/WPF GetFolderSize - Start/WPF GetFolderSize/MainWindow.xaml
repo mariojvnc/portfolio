@@ -1,0 +1,78 @@
+﻿<Window x:Class="WPF_GetFolderSize.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_GetFolderSize"
+        mc:Ignorable="d"
+        Title="Get Directory Size" Height="409" Width="800" FontSize="20">
+    <Border Margin="10">
+        <DockPanel>
+            <Grid x:Name="Grid" DockPanel.Dock="Top" ShowGridLines="True" Margin="0,10,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Content="MyDocuments" Grid.Row="1" Click="OnClick"/>
+                <Button Content="MyPictures" Grid.Row="2" Click="OnClick"/>
+                <Button Content="MyMusic" Grid.Row="3" Click="OnClick"/>
+                <Button Content="C:\ProgramData" Grid.Row="4" Click="OnClick"/>
+                <Button Content="C:\Program Files (x86)" Grid.Row="5" Click="OnClick"/>
+                <TextBox x:Name="Output" Text=""/>
+            </Grid>
+            <Grid DockPanel.Dock="Top" ShowGridLines="True">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="450"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="CustomFolder" Text="C:\Projects"/>
+                <Button Content="Custom Folder" Grid.Column="1" Click="OnClick"/>
+            </Grid>
+            <Grid DockPanel.Dock="Top" Name="grid" TextBlock.Foreground="Black" Height="152">
+                <Grid.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="BorderThickness" Value="1" />
+                        <Setter Property="Background" Value="#FF8FE4F9" />
+                        <Setter Property="BorderBrush" Value="Black" />
+                    </Style>
+                </Grid.Resources>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="450"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Column="0">
+                    <TextBlock>Folder</TextBlock>
+                </Border>
+                <Border Grid.Column="1">
+                    <TextBlock>Size (MBytes)</TextBlock>
+                </Border>
+                <Border Grid.Column="2">
+                    <TextBlock>Time (ms)</TextBlock>
+                </Border>
+                <ScrollViewer Grid.Row="1" Grid.ColumnSpan="3" Height="124" VerticalScrollBarVisibility="Visible">
+                    <Grid Name="resultGrid" Background="AliceBlue">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="450"/>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ScrollViewer>
+            </Grid>
+            <TextBlock x:Name="OutputGrid" Margin="20" Text="Output" FontWeight="Bold" Background="MediumTurquoise" Visibility="Hidden"/>
+        </DockPanel>
+    </Border>
+</Window>

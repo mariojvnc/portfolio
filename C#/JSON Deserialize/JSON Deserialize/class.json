@@ -1,0 +1,24 @@
+﻿{
+  "name": "3AHIF",
+  "studentsCount": 20,
+  "room": "D102",
+  "higherEducation": true,
+  "headOfClass": {
+    "firstName": "Sarah",
+    "lastName": "Reissig",
+    "subjects": [
+      {
+        "name": "Deutsch",
+        "acronym": "D"
+      },
+      {
+        "name": "Geschichte, Geografie, Politische Bildung",
+        "acronym": "GGP"
+      },
+      {
+        "name": "Soziale Bildung",
+        "acronym": "SOPK"
+      }
+    ]
+  }
+}

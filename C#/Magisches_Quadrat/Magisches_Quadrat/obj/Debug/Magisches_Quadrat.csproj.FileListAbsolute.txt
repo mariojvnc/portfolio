@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\bin\Debug\Magisches_Quadrat.exe.config
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\bin\Debug\Magisches_Quadrat.exe
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\bin\Debug\Magisches_Quadrat.pdb
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\obj\Debug\Magisches_Quadrat.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\obj\Debug\Magisches_Quadrat.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\obj\Debug\Magisches_Quadrat.exe
+D:\Schule\3. HTL\POS\Magisches_Quadrat\Magisches_Quadrat\obj\Debug\Magisches_Quadrat.pdb

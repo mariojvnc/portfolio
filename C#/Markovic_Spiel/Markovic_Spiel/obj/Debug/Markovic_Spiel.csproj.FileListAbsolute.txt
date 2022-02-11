@@ -1,0 +1,15 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\bin\Debug\Markovic_Spiel.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\bin\Debug\Markovic_Spiel.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\bin\Debug\Markovic_Spiel.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\MainWindow.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\App.g.cs
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel_MarkupCompile.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel_MarkupCompile.lref
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\MainWindow.baml
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.g.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.Properties.Resources.resources
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.csproj.GenerateResource.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Markovic_Spiel\Markovic_Spiel\obj\Debug\Markovic_Spiel.pdb

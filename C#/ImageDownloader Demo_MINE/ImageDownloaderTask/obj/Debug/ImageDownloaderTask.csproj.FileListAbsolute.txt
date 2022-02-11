@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\bin\Debug\ImageDownloaderSync.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\bin\Debug\ImageDownloaderSync.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\bin\Debug\ImageDownloaderSync.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\obj\Debug\ImageDownloaderTask.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\obj\Debug\ImageDownloaderTask.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\obj\Debug\ImageDownloaderSync.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\ImageDownloader Demo\ImageDownloaderTask\obj\Debug\ImageDownloaderSync.pdb

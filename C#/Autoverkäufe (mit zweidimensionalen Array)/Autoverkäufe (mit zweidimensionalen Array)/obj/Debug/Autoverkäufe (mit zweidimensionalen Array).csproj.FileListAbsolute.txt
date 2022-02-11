@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\bin\Debug\Autoverkäufe (mit zweidimensionalen Array).exe.config
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\bin\Debug\Autoverkäufe (mit zweidimensionalen Array).exe
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\bin\Debug\Autoverkäufe (mit zweidimensionalen Array).pdb
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\obj\Debug\Autoverkäufe (mit zweidimensionalen Array).csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\obj\Debug\Autoverkäufe (mit zweidimensionalen Array).csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\obj\Debug\Autoverkäufe (mit zweidimensionalen Array).exe
+D:\Schule\3. HTL\POS\Autoverkäufe (mit zweidimensionalen Array)\Autoverkäufe (mit zweidimensionalen Array)\obj\Debug\Autoverkäufe (mit zweidimensionalen Array).pdb

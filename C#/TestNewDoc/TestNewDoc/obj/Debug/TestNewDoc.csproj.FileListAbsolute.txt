@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\bin\Debug\TestNewDoc.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\bin\Debug\TestNewDoc.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\bin\Debug\TestNewDoc.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\obj\Debug\TestNewDoc.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\obj\Debug\TestNewDoc.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\obj\Debug\TestNewDoc.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\TestNewDoc\TestNewDoc\obj\Debug\TestNewDoc.pdb

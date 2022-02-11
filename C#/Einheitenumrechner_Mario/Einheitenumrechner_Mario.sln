@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Einheitenumrechner_Mario", "Einheitenumrechner_Mario\Einheitenumrechner_Mario.csproj", "{A5481542-0EBD-4109-9B14-C32EE232A42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5481542-0EBD-4109-9B14-C32EE232A42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5481542-0EBD-4109-9B14-C32EE232A42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5481542-0EBD-4109-9B14-C32EE232A42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5481542-0EBD-4109-9B14-C32EE232A42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F11E0A94-C515-43F0-B44D-F50C37796D55}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\bin\Debug\Mario_TTT.exe.config
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\bin\Debug\Mario_TTT.exe
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\bin\Debug\Mario_TTT.pdb
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\obj\Debug\Mario_TTT.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\obj\Debug\Mario_TTT.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\obj\Debug\Mario_TTT.exe
+D:\Schule\3. HTL\POS\Mario_TTT\Mario_TTT\obj\Debug\Mario_TTT.pdb

@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\obj\Debug\Lottoziehung_aus_6_und_45.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\obj\Debug\Lottoziehung_aus_6_und_45.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\bin\Debug\Lottoziehung_aus_6_und_45.exe.config
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\bin\Debug\Lottoziehung_aus_6_und_45.exe
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\bin\Debug\Lottoziehung_aus_6_und_45.pdb
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\obj\Debug\Lottoziehung_aus_6_und_45.exe
+D:\Schule\3. HTL\POS\Lottoziehung_aus_6_und_45\Lottoziehung_aus_6_und_45\obj\Debug\Lottoziehung_aus_6_und_45.pdb

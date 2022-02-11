@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Schule\3. HTL\POS\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Schule\3. HTL\POS\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Schule\3. HTL\POS\Geometry\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Schule\3. HTL\POS\Geometry\Geometry\obj\Debug\Geometry.pdb

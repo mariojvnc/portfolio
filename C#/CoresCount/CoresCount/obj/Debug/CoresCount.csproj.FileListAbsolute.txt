@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\bin\Debug\CoresCount.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\bin\Debug\CoresCount.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\bin\Debug\CoresCount.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\obj\Debug\CoresCount.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\obj\Debug\CoresCount.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\obj\Debug\CoresCount.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\CoresCount\CoresCount\obj\Debug\CoresCount.pdb

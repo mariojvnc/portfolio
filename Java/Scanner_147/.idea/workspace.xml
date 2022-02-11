@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0113beaf-efb9-4648-9e15-e20c452e6bf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aktienkurs/src/at/htldonaustadt/jovanovic/demo/Investor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aktienkurs/src/at/htldonaustadt/jovanovic/demo/Share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aktienkurs/src/at/htldonaustadt/jovanovic/demo/ShareEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aktienkursanalyse/daily_MSFT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aktienkursanalyse/daily_adjusted_AAPL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aktienkursanalyse/daily_adjusted_FB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aktienkursanalyse/src/at/htldonaustadt/jovanovic/demo/Share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe C.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe D.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe E.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe F.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe G.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe H.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Gruppe I.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe C.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe D.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe E.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe F.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe G.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe H.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/Matches Gruppe I.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fußball_WM_2018_Quailfikation/src/at/htldonaustadt/jovanovic/demo/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSONRead/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSONRead/src/at/htldonaustadt/jovanovic/demo/Schueler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSONRead/src/at/htldonaustadt/jovanovic/demo/Schulklasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrizenmultiplikation/MatrixA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrizenmultiplikation/MatrixB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrizenmultiplikation/MatrixC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_doener/src/at/htldonaustadt/jovanovic/demo/Amount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_doener/src/at/htldonaustadt/jovanovic/demo/Doener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_doener/src/at/htldonaustadt/jovanovic/demo/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_doener/src/at/htldonaustadt/jovanovic/demo/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_doener/src/at/htldonaustadt/jovanovic/demo/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza_doener/src/at/htldonaustadt/jovanovic/demo/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RGB_To_HSL/farbtest_formular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTest/TestTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vier_gewinnt/Vier_gewinnt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/src/at/htldonaustadt/jovanovic/demo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/src/at/htldonaustadt/jovanovic/demo/YouTubeChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/src/at/htldonaustadt/jovanovic/demo/YouTubeEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodeExamples/20210917_Productcatalog/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="21ditdFFIvovtr8IaOSHH1A4Qej" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0113beaf-efb9-4648-9e15-e20c452e6bf4" name="Default Changelist" comment="" />
+      <created>1638277580687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638277580687</updated>
+      <workItem from="1638277581892" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

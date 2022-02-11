@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\obj\Debug\CreateArray.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\obj\Debug\CreateArray.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\bin\Debug\CreateArray.exe.config
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\bin\Debug\CreateArray.exe
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\bin\Debug\CreateArray.pdb
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\obj\Debug\CreateArray.exe
+D:\Schule\3. HTL\POS\CreateArray\CreateArray\obj\Debug\CreateArray.pdb

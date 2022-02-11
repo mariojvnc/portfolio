@@ -1,0 +1,41 @@
+﻿<Window x:Class="Kreuzmuster_Jovanovic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kreuzmuster_Jovanovic"
+        mc:Ignorable="d"
+        Title="Krezuerl - Jovanovic" Height="575.5" Width="837" Loaded="Window_Loaded" ResizeMode="NoResize" Icon="icon.jpg">
+
+    <Grid x:Name="button_grid" HorizontalAlignment="Left" Height="464" VerticalAlignment="Top" Width="464" Margin="36,30,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Content="Choose file" Grid.Column="9" Click ="OpenFileDialog" HorizontalAlignment="Left" Margin="135,24,-268,0" Grid.Row="3" VerticalAlignment="Top" Width="179" Height="56" Grid.RowSpan="2"/>
+        <Button Content="Save file" Grid.Column="9" Click ="SaveFileDialog" HorizontalAlignment="Left" Margin="137,29,-270,0" Grid.Row="5" VerticalAlignment="Top" Width="179" Height="56" Grid.RowSpan="2"/>
+        <!--<Button Content="Test button 9" Grid.Column="9" Click ="Button_Click" HorizontalAlignment="Left" Margin="137,15,-270,0" Grid.Row="4" VerticalAlignment="Top" Width="179" Height="56" Grid.RowSpan="2"/>-->
+    </Grid>
+
+</Window>

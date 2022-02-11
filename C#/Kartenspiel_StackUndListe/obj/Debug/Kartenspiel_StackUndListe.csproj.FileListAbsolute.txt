@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\bin\Debug\Kartenspiel_StackUndListe.exe.config
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\bin\Debug\Kartenspiel_StackUndListe.exe
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\bin\Debug\Kartenspiel_StackUndListe.pdb
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\obj\Debug\Kartenspiel_StackUndListe.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\obj\Debug\Kartenspiel_StackUndListe.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\obj\Debug\Kartenspiel_StackUndListe.exe
+D:\Schule\3. HTL\POS\Kartenspiel_StackUndListe\obj\Debug\Kartenspiel_StackUndListe.pdb

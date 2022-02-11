@@ -1,0 +1,7 @@
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\bin\Debug\HashSet_Demo.exe.config
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\bin\Debug\HashSet_Demo.exe
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\bin\Debug\HashSet_Demo.pdb
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\obj\Debug\HashSet_Demo.csprojAssemblyReference.cache
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\obj\Debug\HashSet_Demo.csproj.CoreCompileInputs.cache
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\obj\Debug\HashSet_Demo.exe
+C:\Projects\Tutorials\HashSet_Demo\HashSet_Demo\obj\Debug\HashSet_Demo.pdb

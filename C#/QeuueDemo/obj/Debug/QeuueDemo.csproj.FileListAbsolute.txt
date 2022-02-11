@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\QeuueDemo\bin\Debug\QeuueDemo.exe.config
+D:\Schule\3. HTL\POS\QeuueDemo\bin\Debug\QeuueDemo.exe
+D:\Schule\3. HTL\POS\QeuueDemo\bin\Debug\QeuueDemo.pdb
+D:\Schule\3. HTL\POS\QeuueDemo\obj\Debug\QeuueDemo.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\QeuueDemo\obj\Debug\QeuueDemo.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\QeuueDemo\obj\Debug\QeuueDemo.exe
+D:\Schule\3. HTL\POS\QeuueDemo\obj\Debug\QeuueDemo.pdb

@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\bin\Debug\Recursion_Faculty.exe.config
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\bin\Debug\Recursion_Faculty.exe
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\bin\Debug\Recursion_Faculty.pdb
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\obj\Debug\Recursion_Faculty.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\obj\Debug\Recursion_Faculty.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\obj\Debug\Recursion_Faculty.exe
+D:\Schule\3. HTL\POS\Recursion_Faculty\Recursion_Faculty\obj\Debug\Recursion_Faculty.pdb

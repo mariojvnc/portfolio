@@ -1,0 +1,7 @@
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\obj\Debug\Fluglinien_AlterTestAsyncAwait.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\obj\Debug\Fluglinien_AlterTestAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\obj\Debug\Fluglinien_AlterTest.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\obj\Debug\Fluglinien_AlterTest.pdb
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\bin\Debug\Fluglinien_AlterTest.exe.config
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\bin\Debug\Fluglinien_AlterTest.exe
+C:\Users\Mario\OneDrive - htl-donaustadt.at\_Programmieren und Software Engineering_\Fluglinien_AlterTest\Fluglinien_AlterTestAsyncAwait\bin\Debug\Fluglinien_AlterTest.pdb

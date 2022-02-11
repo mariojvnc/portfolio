@@ -1,0 +1,7 @@
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\bin\Debug\SortingOfSoccerPlayers.exe.config
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\bin\Debug\SortingOfSoccerPlayers.exe
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\bin\Debug\SortingOfSoccerPlayers.pdb
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\obj\Debug\SortingOfSoccerPlayers.csprojAssemblyReference.cache
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\obj\Debug\SortingOfSoccerPlayers.csproj.CoreCompileInputs.cache
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\obj\Debug\SortingOfSoccerPlayers.exe
+D:\Schule\3. HTL\POS\SortingOfSoccerPlayers\SortingOfSoccerPlayers\obj\Debug\SortingOfSoccerPlayers.pdb

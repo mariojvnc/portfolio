@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db4f78d2-2786-4fa5-b427-370dfe69dcb6": {
+      "ProjectGuid": "db4f78d2-2786-4fa5-b427-370dfe69dcb6",
+      "DisplayName": "DeleteFilesWithSpecificExtension",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
