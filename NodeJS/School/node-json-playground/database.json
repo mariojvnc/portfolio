@@ -1,0 +1,31 @@
+[
+  {
+    "Hugo": {
+      "lastname": "Meier",
+      "dateOfBirth": "1985-10-24",
+      "bmi": "55/157"
+    },
+    "Herbert": {
+      "lastname": "Mueller",
+      "dateOfBirth": "1982-11-11",
+      "bmi": "85/175"
+    }
+  },
+  {
+    "Franz": {
+      "lastname": "Meier",
+      "dateOfBirth": "1995-03-09",
+      "bmi": "90/180"
+    },
+    "Thomas": {
+      "lastname": "Mustermann",
+      "dateOfBirth": "2005-04-10",
+      "bmi": "105/205"
+    },
+    "Caleb": {
+      "lastname": "Meyer",
+      "dateOfBirth": "1995-03-09",
+      "bmi": "70/188"
+    }
+  }
+]

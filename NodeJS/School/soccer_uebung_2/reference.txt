@@ -1,0 +1,63 @@
+Teams:
+[
+  'SK Rapid Wien',
+  'FC Admira Wacker Mödling',
+  'LASK Linz',
+  'FK Austria Wien',
+  'SCR Altach',
+  'TSV Hartberg',
+  'SV Ried',
+  'WSG Tirol',
+  'SKN St. Pölten',
+  'SK Sturm Graz',
+  'FC RB Salzburg',
+  'Wolfsberger AC'
+]
+
+Saison Details:
+{
+  'SK Rapid Wien': { shot: 18, got: 8 },
+  'FC Admira Wacker Mödling': { shot: 9, got: 23 },
+  'LASK Linz': { shot: 15, got: 5 },
+  'FK Austria Wien': { shot: 7, got: 8 },
+  'SCR Altach': { shot: 7, got: 16 },
+  'TSV Hartberg': { shot: 6, got: 15 },
+  'SV Ried': { shot: 8, got: 16 },
+  'WSG Tirol': { shot: 7, got: 12 },
+  'SKN St. Pölten': { shot: 14, got: 9 },
+  'SK Sturm Graz': { shot: 8, got: 4 },
+  'FC RB Salzburg': { shot: 22, got: 4 },
+  'Wolfsberger AC': { shot: 11, got: 12 }
+}
+
+Tordifferenz:
+[
+  { team: 'FC RB Salzburg', statistik: '22:4', value: 5.5 },
+  { team: 'LASK Linz', statistik: '15:5', value: 3 },
+  { team: 'SK Rapid Wien', statistik: '18:8', value: 2.25 },
+  { team: 'SK Sturm Graz', statistik: '8:4', value: 2 },
+  { team: 'SKN St. Pölten', statistik: '14:9', value: 1.56 },
+  { team: 'Wolfsberger AC', statistik: '11:12', value: 0.92 },
+  { team: 'FK Austria Wien', statistik: '7:8', value: 0.88 },
+  { team: 'WSG Tirol', statistik: '7:12', value: 0.58 },
+  { team: 'SV Ried', statistik: '8:16', value: 0.5 },
+  { team: 'SCR Altach', statistik: '7:16', value: 0.44 },
+  { team: 'TSV Hartberg', statistik: '6:15', value: 0.4 },
+  { team: 'FC Admira Wacker Mödling', statistik: '9:23', value: 0.39 }
+]
+
+Punktestand:
+[
+  { team: 'SK Rapid Wien', score: 17 },
+  { team: 'LASK Linz', score: 16 },
+  { team: 'FC RB Salzburg', score: 16 },
+  { team: 'SKN St. Pölten', score: 10 },
+  { team: 'SK Sturm Graz', score: 9 },
+  { team: 'FK Austria Wien', score: 8 },
+  { team: 'WSG Tirol', score: 8 },
+  { team: 'TSV Hartberg', score: 6 },
+  { team: 'SV Ried', score: 6 },
+  { team: 'Wolfsberger AC', score: 6 },
+  { team: 'SCR Altach', score: 5 },
+  { team: 'FC Admira Wacker Mödling', score: 4 }
+]

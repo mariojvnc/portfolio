@@ -1,0 +1,1282 @@
+{
+  "<5": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "6217",
+        "infiziert": "326",
+        "geheilt": "277",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "5880",
+        "infiziert": "313",
+        "geheilt": "271",
+        "verstorben": "0"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "12177",
+        "infiziert": "611",
+        "geheilt": "463",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "11644",
+        "infiziert": "523",
+        "geheilt": "409",
+        "verstorben": "0"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "40378",
+        "infiziert": "1397",
+        "geheilt": "1188",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "38490",
+        "infiziert": "1319",
+        "geheilt": "1091",
+        "verstorben": "0"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "39545",
+        "infiziert": "1572",
+        "geheilt": "1315",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "37443",
+        "infiziert": "1366",
+        "geheilt": "1144",
+        "verstorben": "0"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "14592",
+        "infiziert": "748",
+        "geheilt": "611",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "13852",
+        "infiziert": "650",
+        "geheilt": "510",
+        "verstorben": "0"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "28897",
+        "infiziert": "1256",
+        "geheilt": "1077",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "27269",
+        "infiziert": "1160",
+        "geheilt": "1030",
+        "verstorben": "0"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "19607",
+        "infiziert": "945",
+        "geheilt": "799",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "18236",
+        "infiziert": "806",
+        "geheilt": "687",
+        "verstorben": "0"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "11205",
+        "infiziert": "791",
+        "geheilt": "578",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "10596",
+        "infiziert": "787",
+        "geheilt": "557",
+        "verstorben": "0"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "50224",
+        "infiziert": "2363",
+        "geheilt": "1942",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "47503",
+        "infiziert": "2200",
+        "geheilt": "1789",
+        "verstorben": "0"
+      }
+    }
+  },
+  "5-14": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "13696",
+        "infiziert": "1797",
+        "geheilt": "1530",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "13063",
+        "infiziert": "1687",
+        "geheilt": "1424",
+        "verstorben": "0"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "26078",
+        "infiziert": "5114",
+        "geheilt": "3809",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "24571",
+        "infiziert": "4740",
+        "geheilt": "3535",
+        "verstorben": "0"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "84889",
+        "infiziert": "13330",
+        "geheilt": "11184",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "80387",
+        "infiziert": "12274",
+        "geheilt": "10260",
+        "verstorben": "0"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "76807",
+        "infiziert": "16036",
+        "geheilt": "13218",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "72543",
+        "infiziert": "14926",
+        "geheilt": "12248",
+        "verstorben": "0"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "27398",
+        "infiziert": "6471",
+        "geheilt": "5198",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "26181",
+        "infiziert": "6016",
+        "geheilt": "4830",
+        "verstorben": "0"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "57250",
+        "infiziert": "8030",
+        "geheilt": "6449",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "53840",
+        "infiziert": "7414",
+        "geheilt": "5963",
+        "verstorben": "0"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "37133",
+        "infiziert": "7129",
+        "geheilt": "5580",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "35351",
+        "infiziert": "6545",
+        "geheilt": "5074",
+        "verstorben": "0"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "21482",
+        "infiziert": "3762",
+        "geheilt": "2643",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "20331",
+        "infiziert": "3518",
+        "geheilt": "2458",
+        "verstorben": "0"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "93460",
+        "infiziert": "14439",
+        "geheilt": "11557",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "87273",
+        "infiziert": "13006",
+        "geheilt": "10408",
+        "verstorben": "0"
+      }
+    }
+  },
+  "15-24": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "14147",
+        "infiziert": "2027",
+        "geheilt": "1878",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "12967",
+        "infiziert": "1731",
+        "geheilt": "1604",
+        "verstorben": "0"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "28186",
+        "infiziert": "5626",
+        "geheilt": "4999",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "25885",
+        "infiziert": "5026",
+        "geheilt": "4438",
+        "verstorben": "0"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "88882",
+        "infiziert": "15151",
+        "geheilt": "13943",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "82044",
+        "infiziert": "13618",
+        "geheilt": "12499",
+        "verstorben": "0"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "82565",
+        "infiziert": "18954",
+        "geheilt": "17363",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "77078",
+        "infiziert": "17981",
+        "geheilt": "16488",
+        "verstorben": "0"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "30972",
+        "infiziert": "8192",
+        "geheilt": "7547",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "28970",
+        "infiziert": "7598",
+        "geheilt": "6971",
+        "verstorben": "1"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "65307",
+        "infiziert": "10221",
+        "geheilt": "9340",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "60966",
+        "infiziert": "9670",
+        "geheilt": "8890",
+        "verstorben": "0"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "41926",
+        "infiziert": "8498",
+        "geheilt": "7626",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "39686",
+        "infiziert": "7918",
+        "geheilt": "7155",
+        "verstorben": "0"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "23000",
+        "infiziert": "4334",
+        "geheilt": "3690",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "21017",
+        "infiziert": "4063",
+        "geheilt": "3493",
+        "verstorben": "0"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "109748",
+        "infiziert": "17828",
+        "geheilt": "15925",
+        "verstorben": "5"
+      },
+      "W": {
+        "einwohner": "108636",
+        "infiziert": "17567",
+        "geheilt": "15723",
+        "verstorben": "0"
+      }
+    }
+  },
+  "25-34": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "15736",
+        "infiziert": "1898",
+        "geheilt": "1768",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "15258",
+        "infiziert": "1938",
+        "geheilt": "1773",
+        "verstorben": "0"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "33144",
+        "infiziert": "5289",
+        "geheilt": "4607",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "31769",
+        "infiziert": "5371",
+        "geheilt": "4607",
+        "verstorben": "1"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "100110",
+        "infiziert": "14643",
+        "geheilt": "13229",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "96592",
+        "infiziert": "14372",
+        "geheilt": "12931",
+        "verstorben": "3"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "102103",
+        "infiziert": "19929",
+        "geheilt": "17864",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "95192",
+        "infiziert": "19710",
+        "geheilt": "17669",
+        "verstorben": "3"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "38346",
+        "infiziert": "7925",
+        "geheilt": "7222",
+        "verstorben": "3"
+      },
+      "W": {
+        "einwohner": "37207",
+        "infiziert": "7844",
+        "geheilt": "7058",
+        "verstorben": "2"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "85040",
+        "infiziert": "11040",
+        "geheilt": "9964",
+        "verstorben": "2"
+      },
+      "W": {
+        "einwohner": "78596",
+        "infiziert": "11070",
+        "geheilt": "9922",
+        "verstorben": "0"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "54987",
+        "infiziert": "9133",
+        "geheilt": "8101",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "52317",
+        "infiziert": "8892",
+        "geheilt": "7887",
+        "verstorben": "1"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "27133",
+        "infiziert": "4379",
+        "geheilt": "3667",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "25735",
+        "infiziert": "4289",
+        "geheilt": "3593",
+        "verstorben": "0"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "161221",
+        "infiziert": "21282",
+        "geheilt": "18760",
+        "verstorben": "6"
+      },
+      "W": {
+        "einwohner": "158475",
+        "infiziert": "21023",
+        "geheilt": "18364",
+        "verstorben": "2"
+      }
+    }
+  },
+  "35-44": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "18430",
+        "infiziert": "2209",
+        "geheilt": "2015",
+        "verstorben": "3"
+      },
+      "W": {
+        "einwohner": "19401",
+        "infiziert": "2415",
+        "geheilt": "2165",
+        "verstorben": "1"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "34699",
+        "infiziert": "5254",
+        "geheilt": "4424",
+        "verstorben": "1"
+      },
+      "W": {
+        "einwohner": "34552",
+        "infiziert": "6502",
+        "geheilt": "5469",
+        "verstorben": "0"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "106987",
+        "infiziert": "14605",
+        "geheilt": "12887",
+        "verstorben": "8"
+      },
+      "W": {
+        "einwohner": "107824",
+        "infiziert": "16159",
+        "geheilt": "14252",
+        "verstorben": "3"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "98796",
+        "infiziert": "18464",
+        "geheilt": "16214",
+        "verstorben": "8"
+      },
+      "W": {
+        "einwohner": "94565",
+        "infiziert": "20068",
+        "geheilt": "17640",
+        "verstorben": "2"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "37302",
+        "infiziert": "7488",
+        "geheilt": "6589",
+        "verstorben": "2"
+      },
+      "W": {
+        "einwohner": "36919",
+        "infiziert": "7935",
+        "geheilt": "6950",
+        "verstorben": "2"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "81952",
+        "infiziert": "10391",
+        "geheilt": "9068",
+        "verstorben": "4"
+      },
+      "W": {
+        "einwohner": "79045",
+        "infiziert": "11320",
+        "geheilt": "9884",
+        "verstorben": "1"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "50569",
+        "infiziert": "8028",
+        "geheilt": "6968",
+        "verstorben": "3"
+      },
+      "W": {
+        "einwohner": "50296",
+        "infiziert": "8763",
+        "geheilt": "7539",
+        "verstorben": "0"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "27010",
+        "infiziert": "4035",
+        "geheilt": "3260",
+        "verstorben": "0"
+      },
+      "W": {
+        "einwohner": "27019",
+        "infiziert": "4622",
+        "geheilt": "3685",
+        "verstorben": "0"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "141391",
+        "infiziert": "17816",
+        "geheilt": "15205",
+        "verstorben": "6"
+      },
+      "W": {
+        "einwohner": "138364",
+        "infiziert": "18845",
+        "geheilt": "16023",
+        "verstorben": "6"
+      }
+    }
+  },
+  "45-54": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "22881",
+        "infiziert": "2448",
+        "geheilt": "2231",
+        "verstorben": "4"
+      },
+      "W": {
+        "einwohner": "22952",
+        "infiziert": "2667",
+        "geheilt": "2465",
+        "verstorben": "2"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "41242",
+        "infiziert": "5873",
+        "geheilt": "5069",
+        "verstorben": "12"
+      },
+      "W": {
+        "einwohner": "42066",
+        "infiziert": "6619",
+        "geheilt": "5822",
+        "verstorben": "8"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "129415",
+        "infiziert": "16405",
+        "geheilt": "14616",
+        "verstorben": "18"
+      },
+      "W": {
+        "einwohner": "131118",
+        "infiziert": "17486",
+        "geheilt": "15624",
+        "verstorben": "13"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "108391",
+        "infiziert": "18932",
+        "geheilt": "16886",
+        "verstorben": "22"
+      },
+      "W": {
+        "einwohner": "107229",
+        "infiziert": "20506",
+        "geheilt": "18414",
+        "verstorben": "10"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "40160",
+        "infiziert": "7585",
+        "geheilt": "6832",
+        "verstorben": "7"
+      },
+      "W": {
+        "einwohner": "41236",
+        "infiziert": "8393",
+        "geheilt": "7597",
+        "verstorben": "3"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "92499",
+        "infiziert": "11135",
+        "geheilt": "9913",
+        "verstorben": "23"
+      },
+      "W": {
+        "einwohner": "90750",
+        "infiziert": "12105",
+        "geheilt": "10850",
+        "verstorben": "10"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "55418",
+        "infiziert": "8532",
+        "geheilt": "7562",
+        "verstorben": "9"
+      },
+      "W": {
+        "einwohner": "56274",
+        "infiziert": "9360",
+        "geheilt": "8276",
+        "verstorben": "4"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "29437",
+        "infiziert": "4352",
+        "geheilt": "3576",
+        "verstorben": "2"
+      },
+      "W": {
+        "einwohner": "29358",
+        "infiziert": "4724",
+        "geheilt": "3932",
+        "verstorben": "3"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "132525",
+        "infiziert": "15787",
+        "geheilt": "13660",
+        "verstorben": "49"
+      },
+      "W": {
+        "einwohner": "135961",
+        "infiziert": "16533",
+        "geheilt": "14411",
+        "verstorben": "27"
+      }
+    }
+  },
+  "55-64": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "24113",
+        "infiziert": "2201",
+        "geheilt": "1999",
+        "verstorben": "26"
+      },
+      "W": {
+        "einwohner": "24378",
+        "infiziert": "2040",
+        "geheilt": "1856",
+        "verstorben": "7"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "44248",
+        "infiziert": "5057",
+        "geheilt": "4443",
+        "verstorben": "34"
+      },
+      "W": {
+        "einwohner": "46108",
+        "infiziert": "4948",
+        "geheilt": "4387",
+        "verstorben": "17"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "128091",
+        "infiziert": "13168",
+        "geheilt": "11842",
+        "verstorben": "94"
+      },
+      "W": {
+        "einwohner": "129133",
+        "infiziert": "12212",
+        "geheilt": "10976",
+        "verstorben": "41"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "110354",
+        "infiziert": "15428",
+        "geheilt": "13801",
+        "verstorben": "104"
+      },
+      "W": {
+        "einwohner": "110656",
+        "infiziert": "14555",
+        "geheilt": "13055",
+        "verstorben": "32"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "38626",
+        "infiziert": "5844",
+        "geheilt": "5326",
+        "verstorben": "28"
+      },
+      "W": {
+        "einwohner": "41343",
+        "infiziert": "5752",
+        "geheilt": "5231",
+        "verstorben": "16"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "93105",
+        "infiziert": "8812",
+        "geheilt": "7860",
+        "verstorben": "86"
+      },
+      "W": {
+        "einwohner": "94171",
+        "infiziert": "8227",
+        "geheilt": "7371",
+        "verstorben": "46"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "53495",
+        "infiziert": "7019",
+        "geheilt": "6243",
+        "verstorben": "23"
+      },
+      "W": {
+        "einwohner": "54597",
+        "infiziert": "6411",
+        "geheilt": "5742",
+        "verstorben": "8"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "27539",
+        "infiziert": "3369",
+        "geheilt": "2801",
+        "verstorben": "14"
+      },
+      "W": {
+        "einwohner": "27413",
+        "infiziert": "3199",
+        "geheilt": "2742",
+        "verstorben": "10"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "117043",
+        "infiziert": "11366",
+        "geheilt": "9655",
+        "verstorben": "133"
+      },
+      "W": {
+        "einwohner": "121500",
+        "infiziert": "10098",
+        "geheilt": "8678",
+        "verstorben": "61"
+      }
+    }
+  },
+  "65-74": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "17473",
+        "infiziert": "1205",
+        "geheilt": "1054",
+        "verstorben": "46"
+      },
+      "W": {
+        "einwohner": "18416",
+        "infiziert": "1098",
+        "geheilt": "992",
+        "verstorben": "12"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "30273",
+        "infiziert": "2589",
+        "geheilt": "2213",
+        "verstorben": "89"
+      },
+      "W": {
+        "einwohner": "34155",
+        "infiziert": "2691",
+        "geheilt": "2346",
+        "verstorben": "38"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "81990",
+        "infiziert": "6449",
+        "geheilt": "5660",
+        "verstorben": "195"
+      },
+      "W": {
+        "einwohner": "91063",
+        "infiziert": "6373",
+        "geheilt": "5683",
+        "verstorben": "86"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "69150",
+        "infiziert": "7042",
+        "geheilt": "6195",
+        "verstorben": "240"
+      },
+      "W": {
+        "einwohner": "76056",
+        "infiziert": "6931",
+        "geheilt": "6187",
+        "verstorben": "100"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "25650",
+        "infiziert": "2750",
+        "geheilt": "2467",
+        "verstorben": "64"
+      },
+      "W": {
+        "einwohner": "29975",
+        "infiziert": "2813",
+        "geheilt": "2537",
+        "verstorben": "31"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "60672",
+        "infiziert": "4467",
+        "geheilt": "3890",
+        "verstorben": "207"
+      },
+      "W": {
+        "einwohner": "68544",
+        "infiziert": "4417",
+        "geheilt": "3912",
+        "verstorben": "117"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "33390",
+        "infiziert": "3069",
+        "geheilt": "2678",
+        "verstorben": "67"
+      },
+      "W": {
+        "einwohner": "38062",
+        "infiziert": "3145",
+        "geheilt": "2810",
+        "verstorben": "32"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "17428",
+        "infiziert": "1582",
+        "geheilt": "1281",
+        "verstorben": "41"
+      },
+      "W": {
+        "einwohner": "19366",
+        "infiziert": "1640",
+        "geheilt": "1372",
+        "verstorben": "23"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "71617",
+        "infiziert": "5058",
+        "geheilt": "3931",
+        "verstorben": "290"
+      },
+      "W": {
+        "einwohner": "88891",
+        "infiziert": "5300",
+        "geheilt": "4223",
+        "verstorben": "175"
+      }
+    }
+  },
+  "75-84": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "9705",
+        "infiziert": "643",
+        "geheilt": "535",
+        "verstorben": "69"
+      },
+      "W": {
+        "einwohner": "12365",
+        "infiziert": "782",
+        "geheilt": "675",
+        "verstorben": "58"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "18863",
+        "infiziert": "1863",
+        "geheilt": "1519",
+        "verstorben": "188"
+      },
+      "W": {
+        "einwohner": "25420",
+        "infiziert": "2233",
+        "geheilt": "1933",
+        "verstorben": "124"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "56332",
+        "infiziert": "4270",
+        "geheilt": "3524",
+        "verstorben": "402"
+      },
+      "W": {
+        "einwohner": "71575",
+        "infiziert": "4853",
+        "geheilt": "4213",
+        "verstorben": "272"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "42289",
+        "infiziert": "4279",
+        "geheilt": "3501",
+        "verstorben": "449"
+      },
+      "W": {
+        "einwohner": "57073",
+        "infiziert": "5105",
+        "geheilt": "4468",
+        "verstorben": "257"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "16672",
+        "infiziert": "1761",
+        "geheilt": "1469",
+        "verstorben": "168"
+      },
+      "W": {
+        "einwohner": "21963",
+        "infiziert": "2111",
+        "geheilt": "1891",
+        "verstorben": "90"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "39776",
+        "infiziert": "3194",
+        "geheilt": "2526",
+        "verstorben": "459"
+      },
+      "W": {
+        "einwohner": "53588",
+        "infiziert": "3942",
+        "geheilt": "3363",
+        "verstorben": "349"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "21978",
+        "infiziert": "2025",
+        "geheilt": "1706",
+        "verstorben": "189"
+      },
+      "W": {
+        "einwohner": "28451",
+        "infiziert": "2347",
+        "geheilt": "2081",
+        "verstorben": "98"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "10925",
+        "infiziert": "958",
+        "geheilt": "744",
+        "verstorben": "82"
+      },
+      "W": {
+        "einwohner": "13899",
+        "infiziert": "1049",
+        "geheilt": "863",
+        "verstorben": "43"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "49135",
+        "infiziert": "3381",
+        "geheilt": "2370",
+        "verstorben": "510"
+      },
+      "W": {
+        "einwohner": "70247",
+        "infiziert": "4461",
+        "geheilt": "3379",
+        "verstorben": "389"
+      }
+    }
+  },
+  ">84": {
+    "Burgenland": {
+      "M": {
+        "einwohner": "2888",
+        "infiziert": "234",
+        "geheilt": "158",
+        "verstorben": "57"
+      },
+      "W": {
+        "einwohner": "6044",
+        "infiziert": "574",
+        "geheilt": "451",
+        "verstorben": "87"
+      }
+    },
+    "Kärnten": {
+      "M": {
+        "einwohner": "5557",
+        "infiziert": "725",
+        "geheilt": "483",
+        "verstorben": "204"
+      },
+      "W": {
+        "einwohner": "11452",
+        "infiziert": "1662",
+        "geheilt": "1315",
+        "verstorben": "257"
+      }
+    },
+    "Niederösterreich": {
+      "M": {
+        "einwohner": "15479",
+        "infiziert": "1487",
+        "geheilt": "1017",
+        "verstorben": "344"
+      },
+      "W": {
+        "einwohner": "30100",
+        "infiziert": "3108",
+        "geheilt": "2384",
+        "verstorben": "476"
+      }
+    },
+    "Oberösterreich": {
+      "M": {
+        "einwohner": "12755",
+        "infiziert": "1646",
+        "geheilt": "1135",
+        "verstorben": "405"
+      },
+      "W": {
+        "einwohner": "25018",
+        "infiziert": "3298",
+        "geheilt": "2614",
+        "verstorben": "496"
+      }
+    },
+    "Salzburg": {
+      "M": {
+        "einwohner": "4633",
+        "infiziert": "631",
+        "geheilt": "464",
+        "verstorben": "137"
+      },
+      "W": {
+        "einwohner": "8713",
+        "infiziert": "1228",
+        "geheilt": "991",
+        "verstorben": "182"
+      }
+    },
+    "Steiermark": {
+      "M": {
+        "einwohner": "11652",
+        "infiziert": "1220",
+        "geheilt": "789",
+        "verstorben": "393"
+      },
+      "W": {
+        "einwohner": "24158",
+        "infiziert": "3284",
+        "geheilt": "2545",
+        "verstorben": "658"
+      }
+    },
+    "Tirol": {
+      "M": {
+        "einwohner": "6525",
+        "infiziert": "761",
+        "geheilt": "553",
+        "verstorben": "169"
+      },
+      "W": {
+        "einwohner": "11807",
+        "infiziert": "1386",
+        "geheilt": "1155",
+        "verstorben": "176"
+      }
+    },
+    "Vorarlberg": {
+      "M": {
+        "einwohner": "3196",
+        "infiziert": "315",
+        "geheilt": "205",
+        "verstorben": "71"
+      },
+      "W": {
+        "einwohner": "6148",
+        "infiziert": "630",
+        "geheilt": "464",
+        "verstorben": "91"
+      }
+    },
+    "Wien": {
+      "M": {
+        "einwohner": "11643",
+        "infiziert": "1250",
+        "geheilt": "732",
+        "verstorben": "371"
+      },
+      "W": {
+        "einwohner": "26092",
+        "infiziert": "3306",
+        "geheilt": "2381",
+        "verstorben": "651"
+      }
+    }
+  }
+}

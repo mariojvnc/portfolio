@@ -1,0 +1,426 @@
+[
+  {
+    "spieltag": "Fr 11.9.",
+    "details": [
+      {
+        "uhrzeit": "18.30",
+        "spiele": [
+          {
+            "heimmannschaft": "SK Rapid Wien",
+            "gastmannschaft": "FC Admira Wacker Mödling",
+            "pausenstand": "2:0",
+            "endstand": "4:1"
+          }
+        ]
+      },
+      {
+      "uhrzeit": "20.30",
+      "spiele": [
+        {
+          "heimmannschaft": "LASK Linz",
+          "gastmannschaft": "FK Austria Wien",
+          "pausenstand": "1:0",
+          "endstand": "1:0"
+        }
+      ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 12.9.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "SCR Altach",
+            "gastmannschaft": "TSV Hartberg",
+            "pausenstand": "1:0",
+            "endstand": "1:1"
+          }
+        ]
+      }]
+  },
+  {
+    "spieltag": "So 13.9.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "SV Ried",
+            "gastmannschaft": "WSG Tirol",
+            "pausenstand": "1:2",
+            "endstand": "3:2"
+          },
+          {
+            "heimmannschaft": "SKN St. Pölten",
+            "gastmannschaft": "SK Sturm Graz",
+            "pausenstand": "0:0",
+            "endstand": "0:0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 19.9.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "FC RB Salzburg",
+            "gastmannschaft": "SCR Altach",
+            "pausenstand": "2:1",
+            "endstand": "4:1"
+          },
+          {
+            "heimmannschaft": "WSG Tirol",
+            "gastmannschaft": "LASK Linz",
+            "pausenstand": "1:1",
+            "endstand": "1:1"
+          },
+          {
+            "heimmannschaft": "SK Sturm Graz",
+            "gastmannschaft": "SK Rapid Wien",
+            "pausenstand": "0:0",
+            "endstand": "1:1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "So 20.9.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "TSV Hartberg",
+            "gastmannschaft": "Wolfsberger AC",
+            "pausenstand": "0:0",
+            "endstand": "0:2"
+          },
+          {
+            "heimmannschaft": "FC Admira Wacker Mödling",
+            "gastmannschaft": "SKN St. Pölten",
+            "pausenstand": "0:4",
+            "endstand": "0:5"
+          }
+        ]
+      },
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "FK Austria Wien",
+            "gastmannschaft": "SV Ried",
+            "pausenstand": "1:0",
+            "endstand": "2:1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 26.9.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "SCR Altach",
+            "gastmannschaft": "WSG Tirol",
+            "pausenstand": "0:1",
+            "endstand": "0:2"
+          },
+          {
+            "heimmannschaft": "SKN St. Pölten",
+            "gastmannschaft": "SK Rapid Wien",
+            "pausenstand": "1:2",
+            "endstand": "1:2"
+          },
+          {
+            "heimmannschaft": "SV Ried",
+            "gastmannschaft": "FC RB Salzburg",
+            "pausenstand": "0:1",
+            "endstand": "1:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "So 27.9.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "FK Austria Wien",
+            "gastmannschaft": "FC Admira Wacker Mödling",
+            "pausenstand": "1:1",
+            "endstand": "2:2"
+          },
+          {
+            "heimmannschaft": "TSV Hartberg",
+            "gastmannschaft": "SK Sturm Graz",
+            "pausenstand": "0:1",
+            "endstand": "1:1"
+          }
+        ]
+      },
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "LASK Linz",
+            "gastmannschaft": "Wolfsberger AC",
+            "pausenstand": "1:0",
+            "endstand": "3:1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 3.10.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "FC Admira Wacker Mödling",
+            "gastmannschaft": "SV Ried",
+            "pausenstand": "2:0",
+            "endstand": "3:1"
+          },
+          {
+            "heimmannschaft": "WSG Tirol",
+            "gastmannschaft": "FK Austria Wien",
+            "pausenstand": "0:0",
+            "endstand": "0:2"
+          },
+          {
+            "heimmannschaft": "Wolfsberger AC",
+            "gastmannschaft": "SKN St. Pölten",
+            "pausenstand": "1:3",
+            "endstand": "2:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "So 4.10.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "SK Sturm Graz",
+            "gastmannschaft": "SCR Altach",
+            "pausenstand": "3:0",
+            "endstand": "4:0"
+          },
+          {
+            "heimmannschaft": "FC RB Salzburg",
+            "gastmannschaft": "TSV Hartberg",
+            "pausenstand": "2:0",
+            "endstand": "7:1"
+          }
+        ]
+      },
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "SK Rapid Wien",
+            "gastmannschaft": "LASK Linz",
+            "pausenstand": "2:0",
+            "endstand": "3:0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 24.10.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "FK Austria Wien",
+            "gastmannschaft": "FC RB Salzburg",
+            "pausenstand": "0:0",
+            "endstand": "0:2"
+          },
+          {
+            "heimmannschaft": "SCR Altach",
+            "gastmannschaft": "FC Admira Wacker Mödling",
+            "pausenstand": "2:1",
+            "endstand": "4:2"
+          },
+          {
+            "heimmannschaft": "SV Ried",
+            "gastmannschaft": "SK Sturm Graz",
+            "pausenstand": "0:1",
+            "endstand": "0:2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "So 25.10.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "LASK Linz",
+            "gastmannschaft": "SKN St. Pölten",
+            "pausenstand": "1:0",
+            "endstand": "4:0"
+          },
+          {
+            "heimmannschaft": "WSG Tirol",
+            "gastmannschaft": "TSV Hartberg",
+            "pausenstand": "1:0",
+            "endstand": "1:1"
+          }
+        ]
+      },
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "Wolfsberger AC",
+            "gastmannschaft": "SK Rapid Wien",
+            "pausenstand": "0:2",
+            "endstand": "3:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 31.10.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "FC RB Salzburg",
+            "gastmannschaft": "WSG Tirol",
+            "pausenstand": "2:0",
+            "endstand": "5:0"
+          },
+          {
+            "heimmannschaft": "TSV Hartberg",
+            "gastmannschaft": "FK Austria Wien",
+            "pausenstand": "1:1",
+            "endstand": "2:1"
+          },
+          {
+            "heimmannschaft": "SKN St. Pölten",
+            "gastmannschaft": "SV Ried",
+            "pausenstand": "2:0",
+            "endstand": "4:0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "So 1.11.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "SK Rapid Wien",
+            "gastmannschaft": "SCR Altach",
+            "pausenstand": "1:0",
+            "endstand": "3:1"
+          },
+          {
+            "heimmannschaft": "FC Admira Wacker Mödling",
+            "gastmannschaft": "Wolfsberger AC",
+            "pausenstand": "0:3",
+            "endstand": "1:3"
+          }
+        ]
+      },
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "SK Sturm Graz",
+            "gastmannschaft": "LASK Linz",
+            "pausenstand": "0:1",
+            "endstand": "0:2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "Sa 7.11.",
+    "details": [
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "SCR Altach",
+            "gastmannschaft": "FK Austria Wien",
+            "pausenstand": "0:0",
+            "endstand": "0:0"
+          },
+          {
+            "heimmannschaft": "SKN St. Pölten",
+            "gastmannschaft": "WSG Tirol",
+            "pausenstand": "0:1",
+            "endstand": "0:1"
+          },
+          {
+            "heimmannschaft": "SV Ried",
+            "gastmannschaft": "TSV Hartberg",
+            "pausenstand": "1:0",
+            "endstand": "2:0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "spieltag": "So 8.11.",
+    "details": [
+      {
+        "uhrzeit": "14.30",
+        "spiele": [
+          {
+            "heimmannschaft": "LASK Linz",
+            "gastmannschaft": "FC Admira Wacker Mödling",
+            "pausenstand": "1:0",
+            "endstand": "4:0"
+          }
+        ]
+      },
+      {
+        "uhrzeit": "17.00",
+        "spiele": [
+          {
+            "heimmannschaft": "SK Rapid Wien",
+            "gastmannschaft": "FC RB Salzburg",
+            "pausenstand": "0:1",
+            "endstand": "1:1"
+          }
+        ]
+      }
+    ]
+  }
+]

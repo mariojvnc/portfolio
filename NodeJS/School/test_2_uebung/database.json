@@ -1,0 +1,214 @@
+{
+  "Zach Woods":{
+    "svn":1377301088,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-03-01"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-06-01"
+      }
+    ]
+  },
+  "Montana Hill":{
+    "svn":2311011198,
+    "impfungen":[
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-04-10"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-05-03"
+      }
+    ]
+  },
+  "Kobi Holland":{
+    "svn":1010101010,
+    "impfungen":[
+
+    ]
+  },
+  "Martina Casey":{
+    "svn":3271200901,
+    "impfungen":[
+      {
+        "impfstoff":"Moderna",
+        "datum":"2021-09-01"
+      }
+    ]
+  },
+  "Francesco Chase":{
+      "svn":6767030402,
+    "impfungen":[
+      {
+        "impfstoff":"Moderna",
+        "datum":"2021-04-13"
+      },
+      {
+        "impfstoff":"Moderna",
+        "datum":"2021-05-20"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-11-08"
+      }
+    ]
+  },
+  "Jaspal Alvarado":{
+    "svn":7324080896,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-03-03"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-05-20"
+      },
+      {
+        "impfstoff":"Moderna",
+        "datum":"2021-11-01"
+      }
+    ]
+  },
+  "Anisha Shaffer":{
+    "svn":2837300490,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-03-18"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-05-07"
+      }
+    ]
+  },
+  "Miranda Randolph":{
+    "svn":9587141179,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-03-01"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-04-20"
+      }
+    ]
+  },
+  "Joel Justice":{
+    "svn":2319040465,
+    "impfungen":[
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-05-14"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-06-18"
+      }
+    ]
+  },
+  "Ivy Lake":{
+    "svn":4588030563,
+    "impfungen":[
+      {
+        "impfstoff":"Moderna",
+        "datum":"2021-04-01"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-05-02"
+      }
+    ]
+  },
+  "Miley Day":{
+    "svn":7721120521,
+    "impfungen":[
+
+    ]
+  },
+  "Martyna Higgins":{
+    "svn":6309100219,
+    "impfungen":[
+
+    ]
+  },
+  "Anabelle Foley":{
+    "svn":5808040507,
+    "impfungen":[
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-11-05"
+      }
+    ]
+  },
+  "Ayva Calderon":{
+    "svn":4520310199,
+    "impfungen":[
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-03-03"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-04-02"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-10-20"
+      }
+    ]
+  },
+  "Mildred Valentine":{
+    "svn":2379280203,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-03-18"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-04-30"
+      }
+    ]
+  },
+  "Hester Doherty":{
+    "svn":1103110303,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-03-21"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-05-05"
+      },
+      {
+        "impfstoff":"Moderna",
+        "datum":"2021-11-05"
+      }
+    ]
+  },
+  "Ivy Gale":{
+    "svn":5995040701,
+    "impfungen":[
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-02-28"
+      },
+      {
+        "impfstoff":"Astra Zeneca",
+        "datum":"2021-04-30"
+      },
+      {
+        "impfstoff":"BioNTech, Pfizer",
+        "datum":"2021-10-31"
+      }
+    ]
+  }
+}

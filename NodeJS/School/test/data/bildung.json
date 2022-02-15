@@ -1,0 +1,46 @@
+{
+  "Männer": {
+    "Burgenland": {
+      "AHS": 46789,
+      "Pflichschule": 45678,
+      "HAK": 3456
+    },
+    "Wien": {
+      "AHS": 4567,
+      "Pflichschule": 23456,
+      "HAK": 87654
+    },
+    "Niederösterreich": {
+      "AHS": 234543212,
+      "Pflichschule": 2345,
+      "HAK": 23454
+    },
+    "Oberösterreich": {
+      "AHS": 22222,
+      "Pflichschule": 2234,
+      "HAK": 2321
+    }
+  },
+  "Frauen": {
+    "Burgenland": {
+      "AHS": 45678,
+      "Pflichschule": 9098765,
+      "HAK": 34567
+    },
+    "Wien": {
+      "AHS": 9876543,
+      "Pflichschule": 5678765,
+      "HAK": 56787654
+    },
+    "Niederösterreich": {
+      "AHS": 2345678,
+      "Pflichschule": 345678,
+      "HAK": 55555
+    },
+    "Oberösterreich": {
+      "AHS": 356,
+      "Pflichschule": 55555,
+      "HAK": 444
+    }
+  }
+}
